@@ -2,7 +2,7 @@
 This repo contains codes for Federated Learning for diabetic retinopathy classification in OCT-A images. Currently, the solution uses SFU Vault (OwnCloud) as a drop-off folder to exchange files between the central aggregator server and each client, with eventual expansion to a separate computer.
 
 ## Setup
- The relevant dependencies can be installed as follows (or through pip install -r requirements_classification.txt):
+ The relevant dependencies can be installed via requirements_classification.txt, or through the following steps:
 
 ### Install with conda or pip
 
